@@ -68,7 +68,7 @@ class _ViewHeaderCustomizationState extends State<ViewHeaderCustomization> {
               scrollDirection: Axis.horizontal,
               itemBuilder: (BuildContext ctxt, int index) {
                 return Container(
-                  padding: const EdgeInsets.only(left: 15),
+                  padding: const EdgeInsets.only(left: 15,top: 5),
                   width: _cellWidth,
                   height: 5,
                   color: Colors.lightGreen,
