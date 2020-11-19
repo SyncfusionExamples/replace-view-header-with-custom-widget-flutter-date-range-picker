@@ -1,2 +1,1 @@
-# replace-view-header-with-custom-widget-flutter-date-range-picker
-How to replace the view header with the custom widget in Flutter date range picker (SfDateRangePicker)
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/12098/how-to-replace-the-view-header-with-the-custom-widget-in-flutter-date-range-picker)**
